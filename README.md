@@ -41,6 +41,16 @@
 
 ---
 
+## 📈 Visualizations
+Visualizations are saved in the `Visualization/` directory. Some examples:
+
+### 1️⃣ District Performance Summary
+<img width="1082" height="564" alt="Screenshot 2568-10-20 at 5 22 32 PM" src="https://github.com/user-attachments/assets/cad61daa-0e3b-4383-8cda-62693a3e17f9" />
+### 2️⃣ Overall Passing Rate by School
+<img width="1069" height="623" alt="Screenshot 2568-10-20 at 5 23 19 PM" src="https://github.com/user-attachments/assets/247beda8-1726-421e-92bf-8fd699b93054" />
+### 3️⃣ Passing Rates by School Type
+<img width="773" height="449" alt="Screenshot 2568-10-20 at 5 23 55 PM" src="https://github.com/user-attachments/assets/18727488-111d-448c-b279-52e51e06ba90" />
+
 ## 📂 Repository Structure
 
 - `PyCitySchools.ipynb`: Jupyter notebook containing the complete analysis, including data loading, merging, aggregation, and export.
